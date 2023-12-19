@@ -1,10 +1,15 @@
-Source of data - https://www.kaggle.com/datasets/wcukierski/enron-email-dataset
+#QuickCompose
 
-## Description
-Email, as a universally recognized and continually expanding mode of communication, engages an estimated 3.8 billion users who collectively transmit 281 billion emails each day.
+## 1. Introduction
+Email remains a prevalent and continually expanding mode of communication globally, boasting an estimated 3.8 billion users who collectively dispatch 281 billion emails each day.
 
-If you've ever used Gmail, you've likely encountered the Gmail Smart Compose feature, perhaps unknowingly. When composing an email, you may have observed Gmail intelligently suggesting relevant sentences. This intuitive feature is the essence of Gmail Smart Compose.
+The widely used Gmail Smart Compose feature might be familiar to many, even if its utilization goes unnoticed. When composing an email, you may have observed Gmail suggesting relevant sentences seamlessly. This intuitive feature is none other than Gmail Smart Compose in action.
 
-#### Problem statement:
-The objective at hand involves developing a model capable of predicting sentences or words based on given input. This entails constructing a sequence-based model where the input consists of a series of words, and the expected output is likewise a sequence of words. In essence, the task is to create a model that excels in understanding contextual patterns and accurately predicts subsequent words in a given sequence.
+## 2. Business Problem
+Our objective is to develop a model capable of predicting sentences or words based on the provided input sequence. This entails constructing a sequence-based model wherein the input comprises a series of words, and the anticipated output is likewise a sequence of words. This task aligns with the language modeling paradigm, specifically focusing on generating the next word, commonly referred to as a next-word prediction. The challenge at hand is to create an effective model that excels in understanding contextual patterns and accurately forecasts the subsequent words in a given sequence.
+
+
+
+
+
 
