@@ -1,4 +1,4 @@
-#QuickCompose
+# <p align="center"> Quick Compose  </p> 
 
 ## 1. Introduction
 Email remains a prevalent and continually expanding mode of communication globally, boasting an estimated 3.8 billion users who collectively dispatch 281 billion emails each day.
